@@ -1,0 +1,2 @@
+Eve==0.7.10
+git+https://github.com/pyeve/eve-sqlalchemy.git@d5c8081457a32a35a1abd6cee4bfa9420f4e05af#egg=Eve-SQLAlchemy
